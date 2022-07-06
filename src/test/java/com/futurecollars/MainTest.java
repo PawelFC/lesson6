@@ -1,6 +1,6 @@
 package com.futurecollars;
 
-import com.futurecollars.lesson6.Main;
+import com.futurecollars.lesson06.Main;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

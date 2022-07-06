@@ -1,4 +1,4 @@
-package com.futurecollars.lesson8;
+package com.futurecollars.lesson08;
 
 public class Goalkeeper implements FootballPlayer {
 

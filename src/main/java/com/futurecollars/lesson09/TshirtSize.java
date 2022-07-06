@@ -1,4 +1,4 @@
-package com.futurecollars.lesson9;
+package com.futurecollars.lesson09;
 
 public enum TshirtSize {
     S("S", 50),

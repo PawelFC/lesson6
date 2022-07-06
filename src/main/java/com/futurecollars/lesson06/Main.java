@@ -1,7 +1,4 @@
-package com.futurecollars.lesson6;
-
-import org.apache.poi.hssf.usermodel.HSSFWorkbook;
-import org.apache.poi.ss.usermodel.Workbook;
+package com.futurecollars.lesson06;
 
 public class Main {
   public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.futurecollars.lesson7;
+package com.futurecollars.lesson07;
 
 public class Employee {
 

@@ -1,4 +1,4 @@
-package com.futurecollars.lesson7;
+package com.futurecollars.lesson07;
 
 import java.util.Objects;
 
